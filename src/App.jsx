@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useRef } from 'react';
 import { BrowserRouter } from "react-router-dom";
 import { Contact, Experience, Hero, Navbar, Portfolio } from "./components";
 
