@@ -6,8 +6,16 @@ import Navbar from "./Navbar";
 import Portfolio from "./Portfolio";
 import Position from "./Position";
 import SpacemanCanvas from "./Spaceman";
+import Skill from "./Skill";
 
 export {
-    CanvasLoader, Contact, Experience, Hero, Navbar, Portfolio, Position, SpacemanCanvas
+  CanvasLoader,
+  Contact,
+  Experience,
+  Hero,
+  Navbar,
+  Portfolio,
+  Skill,
+  Position,
+  SpacemanCanvas,
 };
-

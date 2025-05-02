@@ -5,5 +5,7 @@ import menu from "./menu.svg";
 import cdnPanel from "./cdnPanel.png";
 import ziggurat from "./ziggurat.png";
 import portal from "./portal.png";
+import cleg from "./cleg.png";
+import skills from "./skills.png";
 
-export { cdnPanel, close, logo, menu, portal, ziggurat };
+export { cdnPanel, close, logo, menu, portal, ziggurat, cleg, skills };
