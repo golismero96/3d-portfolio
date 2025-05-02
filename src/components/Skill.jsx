@@ -32,7 +32,7 @@ const ProjectCard = () => {
         <img
           src={skills}
           alt="skills"
-          className="w-full h-auto object-cover md:rounded-3xl"
+          className="w-full h-auto object-cover rounded-3xl"
         />
       </div>
     </motion.div>
